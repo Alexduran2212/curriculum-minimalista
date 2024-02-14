@@ -1,0 +1,221 @@
+{
+    "basics": {
+      "name": "Alejandro Duran",
+      "label": "Front-End Developer",
+      "image": "",
+      "email": "alexduranc22@gmail.com",
+      "phone": "+34 644774016",
+      "url": "https://johndoe.com",
+      "summary": "A summary of John Doe…",
+      "location": {
+        "address": "",
+        "postalCode": "28100",
+        "city": "Alcobendas",
+        "countryCode": "ES",
+        "region": "España"
+      },
+      "profiles": [
+        {
+        "network": "LinkedIn",
+        "username": "Alejandro Duran Castellano",
+        "url": "https://linkedin.com/in/alexduran2212"
+      },
+      {
+        "network": "GitHub",
+        "username": "Alexduran2212",
+        "url": "https://github.com/Alexduran2212"
+      }
+    ]
+    },
+    "work": [{
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+
+    {
+      "name": "Astro",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+
+    {
+      "name": "GitHub",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  ],
+    "languages": [{
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Ingles",
+      "fluency": "B2"
+    }
+  ],
+  "aptitudes": [{
+    "name": "Trabajo en Equipo",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  },
+  {
+    "name": "Responsabilidad",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  },
+  {
+    "name": "Puntualidad",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  },
+  {
+    "name": "Pensamiento Critico",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  },
+  {
+    "name": "Comunicación",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  },
+  {
+    "name": "Liderazgo",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  },
+  {
+    "name": "Proactividad",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  },
+  {
+    "name": "Gestión del Tiempo",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }
+],
+
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "isActive": true,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
